@@ -48,7 +48,7 @@ COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Telegram_files')
 # Others
 GRP_LNK = environ.get('GRP_LNK', 'https://t.me/MovieGroup_TG')
 CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/MovieHOuse_TG')
-MSG_ALRT = environ.get('MSG_ALRT', 'Wʜᴀᴛ Aʀᴇ Yᴏᴜ Lᴏᴏᴋɪɴɢ Aᴛ ?')
+MSG_ALRT = environ.get('MSG_ALRT', '💫 𝐋𝐚 𝐋𝐢𝐬𝐚 ✨')
 LOG_CHANNEL = int(environ.get('LOG_CHANNEL', 0))
 SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'bots_supported')
 P_TTI_SHOW_OFF = is_enabled((environ.get('P_TTI_SHOW_OFF', "False")), False)
