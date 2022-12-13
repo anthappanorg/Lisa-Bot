@@ -4,7 +4,7 @@
     "description": "When you going to send file on telegram channel this bot will save that in database, So you can search that easily in inline mode",
     "Main": "bot.py",
     "scripts": {
-        "build": "echo \"No build specified\" && exit 1",
+        "build": "echo \"master\" && exit 1",
         "test": "echo \"Error: No test specified\" && exit 1",
         "start": "node index.js"
     },
