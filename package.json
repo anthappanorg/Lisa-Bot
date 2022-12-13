@@ -9,12 +9,12 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/anthappanorg/Lisa-Bot.git"
+        "url": "git+https://github.com/CodeHouse-TG/Lisa-Bot.git"
     },
     "author": "",
     "license": "ISC",
     "bugs": {
-        "url": "https://github.com/anthappanorg/Lisa-Bot/issues"
+        "url": "https://github.com/CodeHouse-TG/Lisa-Bot/issues"
     },
-    "homepage": "https://github.com/anthappanorg/Lisa-Bot#readme"
+    "homepage": "https://github.com/CodeHouse-TG/Lisa-Bot#readme"
 }
