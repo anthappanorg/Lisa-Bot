@@ -1,7 +1,7 @@
 {
     "name": "Lisa-Bot",
     "version": "1.0.0",
-    "description": "",
+    "description": "When you going to send file on telegram channel this bot will save that in database, So you can search that easily in inline mode",
     "scripts": {
         "build": "echo \"No build specified\" && exit 1",
         "test": "echo \"No test specified\" && exit 1",
