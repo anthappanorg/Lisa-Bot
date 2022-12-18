@@ -148,3 +148,4 @@ config.py
 result.json
 
 #for cyclic deployment
+node_modules
